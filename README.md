@@ -6,7 +6,7 @@
 ### 🚀 About Me  
 - 🎓 **MCA Graduate** from Jharkhand Rai University (2021-2023)  
 - 💻 **Passionate Developer** | Android | Web | Backend  
-- 🏆 **Top 2% in AI course** from NPTEL, IIT Guwahati  
+- 🏆 **Ranked Top 2% in AI course** from NPTEL, IIT Guwahati  
 - 📚 **Published research** on Plant Leaf Disease Detection using Deep Neural Networks  
 - 🎯 **Technical Skills:** Java, Kotlin, C++, Python, Jetpack Compose, Spring Boot, AWS  
 
