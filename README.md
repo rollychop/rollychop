@@ -15,7 +15,8 @@
 - 📱 **Step Counter App** – Tracks steps, rewards users with coins, and supports offline mode for subscribers  
 - 📊 **EMI Calculator App** – Helps users calculate EMIs with configurable charges stored in Room DB  
 - 🎮 **BGMI Marketplace App** – Platform for trading BGMI account IDs and UC purchases  
-- 🖨 **Digital Printing Service** – Enables users to upload PDFs, customize prints, and track booking status  
+- 🏷 **ID Card Photo Tagging App** – Allows ID card companies to upload user data via CSV or manually insert records. Captures and tags user photos efficiently, eliminating manual photo tagging.  
+- 📄 **Dynamic Form Builder** – A form creation tool similar to Google Forms, allowing users to build and customize forms dynamically with various input types and validations.  
 - 🎟 **Waterpark Ticket Booking App** – Allows users to book tickets, select amenities, and register via OTP  
 
 ### 📫 Connect with Me  
