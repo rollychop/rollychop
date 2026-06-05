@@ -3,21 +3,40 @@
 ### 📊 GitHub Stats  
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rollychop&show_icons=true&theme=radical)  
 
-### 🚀 About Me  
-- 🎓 **MCA Graduate** from Jharkhand Rai University (2021-2023)  
-- 💻 **Passionate Developer** | Android | Web | Backend  
-- 🏆 **Ranked Top 2% in AI course** from NPTEL, IIT Guwahati  
-- 📚 **Published research** on Plant Leaf Disease Detection using Deep Neural Networks  
-- 🎯 **Technical Skills:** Java, Kotlin, C++, JavaScript/TypeScript, Python, Jetpack Compose, React, Spring Boot, ML, AWS  
-- ⚡ **CI/CD & DevOps:** Implementing end-to-end automation, from frontend to backend, ensuring smooth deployment and scalability  
+### 🚀 About Me
 
-### 🌟 Projects  
-- 📚 **[Nyasa Learning Platform](https://play.google.com/store/apps/details?id=com.thenyasa.app)** – A fun and interactive learning platform with reels-style content and engaging Q&A sessions  
-- 📱 **Step Counter App** – Tracks steps, rewards users with coins  
-- 🔢 **True Calculator App** – A financial calculator that helps users perform various finance-related calculations, including EMI, loan, interest, and investment returns.  
-- 🏷 **ID Card Photo Tagging App** – Allows ID card companies to upload user data via CSV or manually insert records. Captures and tags user photos efficiently, eliminating manual photo tagging.  
-- 📄 **Dynamic Form Builder** – A form creation tool similar to Google Forms, allowing users to build and customize forms dynamically with various input types and validations.  
-- 🎟 **Waterpark Ticket Booking App** – Allows users to book tickets, select amenities
+* 🎓 **MCA Graduate**
+* 💻 **Full-Stack Developer** passionate about building Android, Web, and Backend solutions
+* 📱 **Android Enthusiast** with experience in Java, Kotlin, Jetpack Compose, and modern Android architecture
+* 🌐 **Backend & Cloud Developer** focused on scalable APIs, automation, and cloud-native solutions
+* ⚡ **CI/CD & DevOps Advocate** implementing end-to-end automation, deployment pipelines, and infrastructure management
+* 🤖 Exploring **Machine Learning**, automation, and intelligent software systems
+* 🛠️ **Technical Skills:** Java, Kotlin, C++, JavaScript/TypeScript, Python, React, Spring Boot, AWS, Docker, Git, Linux
+* 🔍 Strong focus on performance optimization, clean architecture, and maintainable code
+* 🚀 Passionate about transforming ideas into production-ready applications
+* 📚 Continuous learner who enjoys exploring new technologies and solving real-world engineering challenges
+
+### 🌟 Featured Projects
+
+* 📚 **Nyasa Learning Platform** – Full-scale e-learning ecosystem featuring short-form educational content, quizzes, live sessions, student engagement tools, progress tracking, and content management systems for educators and learners.
+
+* 🏷️ **ID Card Photo Tagging & Management System** – Enterprise solution for educational institutions and organizations that automates user onboarding, CSV-based bulk imports, photo capture, photo-to-user mapping, and ID card generation workflows.
+
+* 📄 **Dynamic Form Builder Platform** – No-code form creation system enabling users to build customizable forms with dynamic fields, validations, conditional logic, response analytics, and data export capabilities.
+
+* 🎟️ **Waterpark Ticket Booking & Visitor Management System** – Complete booking platform supporting online reservations, amenity selection, ticket validation, visitor tracking, payment integration, and operational management.
+
+* 📡 **Remote Device Management Platform** – Centralized system for remotely monitoring, configuring, and managing connected devices with real-time communication, diagnostics, configuration synchronization, and deployment controls.
+
+* 🚀 **Dynamic Asset Update Framework** – Infrastructure that enables web assets and application resources to be updated independently of application releases, reducing deployment cycles and allowing rapid feature delivery.
+
+* 🔄 **CI/CD Automation Pipeline** – End-to-end automation system covering build, testing, asset deployment, version management, release workflows, and production rollout processes.
+
+* 🌐 **Full-Stack Business Applications** – Designed and developed multiple Android, Web, and Backend solutions using Java, Kotlin, Spring Boot, React, TypeScript, AWS, and modern cloud technologies.
+
+* ☁️ **Cloud-Native Backend Services** – Built scalable APIs, authentication systems, data processing services, and microservice-based solutions focused on reliability, performance, and maintainability.
+
+* 🤖 **Automation & Productivity Solutions** – Developed custom tools and workflow automation systems to streamline operational tasks, reduce manual effort, and improve business efficiency.
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitkmmrr)  
