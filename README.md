@@ -1,7 +1,25 @@
 # 👋 Hi, I'm Rohit!  
 
 ### 📊 GitHub Stats  
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rollychop&show_icons=true&theme=radical)  
+<!-- GitHub Streak -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rollychop\&theme=radical\&hide_border=true)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rollychop&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<!-- Top Languages -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollychop&layout=compact&theme=github_dark&hide_border=true" />
+
+<!-- Activity Graph -->
+
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rollychop\&theme=github-compact)](https://github.com/rollychop)
+
+<!-- Profile Views -->
+
+<img src="https://komarev.com/ghpvc/?username=rollychop&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ### 🚀 About Me
 
