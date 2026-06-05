@@ -1,61 +1,116 @@
-# 👋 Hi, I'm Rohit!  
+# 👋 Hi, I'm Rohit Kumar
 
-### 📊 GitHub Stats  
-<!-- GitHub Streak -->
+### Full-Stack Developer | Android Engineer | Backend & Cloud Enthusiast
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wiredrift\&theme=radical\&hide_border=true)](https://git.io/streak-stats)
+I enjoy building scalable software solutions across Android, Web, Backend, and Cloud platforms. My interests span system architecture, automation, DevOps, and creating products that solve real-world problems.
 
-<!-- GitHub Stats -->
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiredrift&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+## 🚀 About Me
 
-<!-- Top Languages -->
+* 🎓 MCA Graduate
+* 📱 Building modern Android applications using Java, Kotlin, and Jetpack Compose
+* 🌐 Developing scalable backend services and APIs with Spring Boot
+* ☁️ Working with AWS, Docker, Linux, and cloud-native technologies
+* ⚡ Passionate about CI/CD, automation, and deployment infrastructure
+* 🏗️ Strong focus on clean architecture, maintainable code, and system design
+* 🤖 Exploring Machine Learning, intelligent automation, and distributed systems
+* 📚 Constantly learning and experimenting with new technologies
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiredrift&layout=compact&theme=github_dark&hide_border=true" />
+---
 
-<!-- Activity Graph -->
+## 🛠️ Tech Stack
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wiredrift\&theme=github-compact)](https://github.com/wiredrift)
+### Languages
 
-<!-- Profile Views -->
+`Java` `Kotlin` `C++` `JavaScript` `TypeScript` `Python`
 
-<img src="https://komarev.com/ghpvc/?username=wiredrift&label=Profile%20Views&color=0e75b6&style=flat" />
+### Mobile
 
-### 🚀 About Me
+`Android SDK` `Jetpack Compose` `Material Design`
 
-* 🎓 **MCA Graduate**
-* 💻 **Full-Stack Developer** passionate about building Android, Web, and Backend solutions
-* 📱 **Android Enthusiast** with experience in Java, Kotlin, Jetpack Compose, and modern Android architecture
-* 🌐 **Backend & Cloud Developer** focused on scalable APIs, automation, and cloud-native solutions
-* ⚡ **CI/CD & DevOps Advocate** implementing end-to-end automation, deployment pipelines, and infrastructure management
-* 🤖 Exploring **Machine Learning**, automation, and intelligent software systems
-* 🛠️ **Technical Skills:** Java, Kotlin, C++, JavaScript/TypeScript, Python, React, Spring Boot, AWS, Docker, Git, Linux
-* 🔍 Strong focus on performance optimization, clean architecture, and maintainable code
-* 🚀 Passionate about transforming ideas into production-ready applications
-* 📚 Continuous learner who enjoys exploring new technologies and solving real-world engineering challenges
+### Backend
 
-### 🌟 Featured Projects
+`Spring Boot` `REST APIs` `WebSockets` `Microservices`
 
-* 📚 **Nyasa Learning Platform** – Full-scale e-learning ecosystem featuring short-form educational content, quizzes, live sessions, student engagement tools, progress tracking, and content management systems for educators and learners.
+### Frontend
 
-* 🏷️ **ID Card Photo Tagging & Management System** – Enterprise solution for educational institutions and organizations that automates user onboarding, CSV-based bulk imports, photo capture, photo-to-user mapping, and ID card generation workflows.
+`React` `HTML` `CSS` `JavaScript`
 
-* 📄 **Dynamic Form Builder Platform** – No-code form creation system enabling users to build customizable forms with dynamic fields, validations, conditional logic, response analytics, and data export capabilities.
+### Cloud & DevOps
 
-* 🎟️ **Waterpark Ticket Booking & Visitor Management System** – Complete booking platform supporting online reservations, amenity selection, ticket validation, visitor tracking, payment integration, and operational management.
+`AWS` `Docker` `Linux` `Git` `CI/CD`
 
-* 📡 **Remote Device Management Platform** – Centralized system for remotely monitoring, configuring, and managing connected devices with real-time communication, diagnostics, configuration synchronization, and deployment controls.
+### Databases
 
-* 🚀 **Dynamic Asset Update Framework** – Infrastructure that enables web assets and application resources to be updated independently of application releases, reducing deployment cycles and allowing rapid feature delivery.
+`MySQL` `PostgreSQL` `MongoDB` `SQLite`
 
-* 🔄 **CI/CD Automation Pipeline** – End-to-end automation system covering build, testing, asset deployment, version management, release workflows, and production rollout processes.
+---
 
-* 🌐 **Full-Stack Business Applications** – Designed and developed multiple Android, Web, and Backend solutions using Java, Kotlin, Spring Boot, React, TypeScript, AWS, and modern cloud technologies.
+## 📊 GitHub Analytics
 
-* ☁️ **Cloud-Native Backend Services** – Built scalable APIs, authentication systems, data processing services, and microservice-based solutions focused on reliability, performance, and maintainability.
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=wiredrift&theme=github-dark-blue&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiredrift&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-* 🤖 **Automation & Productivity Solutions** – Developed custom tools and workflow automation systems to streamline operational tasks, reduce manual effort, and improve business efficiency.
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wiredrift&theme=github-compact&hide_border=true" />
+</p>
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitkmmrr)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/wiredrift)  
+---
+
+## 🌟 Featured Projects
+
+### 📚 Nyasa Learning Platform
+
+Interactive learning ecosystem featuring short-form educational content, quizzes, live sessions, learner engagement tools, and content management capabilities.
+
+### 📡 Remote Device Management Platform
+
+Centralized platform for remotely monitoring, configuring, and managing connected devices with real-time updates, diagnostics, and configuration synchronization.
+
+### 📄 Dynamic Form Builder
+
+No-code platform for creating customizable forms with validations, dynamic fields, conditional logic, and response management.
+
+### 🏷️ ID Card Photo Tagging System
+
+Enterprise solution for automating user onboarding, bulk imports, photo capture, intelligent photo mapping, and ID card generation workflows.
+
+### 🚀 Dynamic Asset Update Framework
+
+Infrastructure enabling frontend assets and application resources to be updated independently of app releases, significantly reducing deployment cycles.
+
+### 🎟️ Ticket Booking & Visitor Management Platform
+
+Comprehensive booking solution supporting reservations, visitor management, digital ticketing, amenity selection, and operational workflows.
+
+---
+
+## 🎯 Current Focus
+
+* Android Architecture & Jetpack Compose
+* Backend Systems with Spring Boot
+* Cloud Infrastructure & DevOps
+* CI/CD Automation
+* Scalable Device Management Solutions
+* Distributed Systems & System Design
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rohitkmmrr" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/wiredrift" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+"Building reliable software, automating workflows, and turning ideas into production-ready systems."
