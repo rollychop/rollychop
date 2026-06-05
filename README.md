@@ -50,12 +50,12 @@ I enjoy building scalable software solutions across Android, Web, Backend, and C
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=wiredrift&theme=github-dark-blue&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiredrift&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=rollychop&theme=github-dark-blue&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollychop&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wiredrift&theme=github-compact&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rollychop&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ Comprehensive booking solution supporting reservations, visitor management, digi
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/wiredrift" target="_blank">
+<a href="https://github.com/rollychop" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 </a>
 </p>
